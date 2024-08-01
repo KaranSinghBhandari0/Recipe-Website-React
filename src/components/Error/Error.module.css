@@ -1,0 +1,10 @@
+.errorDiv img {
+    height: 100px;
+    width: 100px;
+    margin: 0 auto;
+}
+
+.errorDiv {
+    width: 100%;
+    text-align: center;
+}
